@@ -1,0 +1,5 @@
+added parts for Display
+added parts for Headlight
+added parts for wifi
+added parts for mirrors
+added parts for bluetooth
